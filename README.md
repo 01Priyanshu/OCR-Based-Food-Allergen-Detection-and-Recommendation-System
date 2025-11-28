@@ -1,5 +1,5 @@
 # OCR-allergen-detection-and-recommendation- 
-
+    
 ### OCR Module:
 Install Tesseract
 Paste your .exe path in pytesseract.pytesseract.tesseract_cmd variable

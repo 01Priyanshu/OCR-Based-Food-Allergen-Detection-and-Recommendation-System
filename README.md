@@ -14,7 +14,7 @@ Paste your .exe path in pytesseract.pytesseract.tesseract_cmd variable
 ---->PYJWT
 ---->Flasksqlalchemy
 
-### initialize database steps
+### initialize database steps    
 --> python
 -->from app import db
 -->db.create_all()

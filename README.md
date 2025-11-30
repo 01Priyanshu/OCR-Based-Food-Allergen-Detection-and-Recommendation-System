@@ -9,7 +9,7 @@ Paste your .exe path in pytesseract.pytesseract.tesseract_cmd variable
 --->SQLALCHEMY_DATABASE_URI
 --->SECRET_KEY
 
-### Dependencies
+### Dependencies    
 --->Flask    
 ---->PYJWT
 ---->Flasksqlalchemy

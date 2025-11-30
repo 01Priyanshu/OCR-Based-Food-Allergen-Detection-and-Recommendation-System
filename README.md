@@ -12,7 +12,7 @@ Paste your .exe path in pytesseract.pytesseract.tesseract_cmd variable
 ### Dependencies    
 --->Flask    
 ---->PYJWT
----->Flasksqlalchemy
+---->Flasksqlalchemy    
 
 ### initialize database steps    
 --> python

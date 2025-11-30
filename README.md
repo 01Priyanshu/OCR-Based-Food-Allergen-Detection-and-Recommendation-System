@@ -21,4 +21,4 @@ Paste your .exe path in pytesseract.pytesseract.tesseract_cmd variable
 
 ### Run flask application
 --->flask run 
-
+   

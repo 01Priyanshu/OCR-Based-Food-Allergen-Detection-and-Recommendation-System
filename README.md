@@ -1,4 +1,4 @@
-# OCR-allergen-detection-and-recommendation- 
+# OCR-allergen-detection-and-recommendation-    
     
 ### OCR Module:
 Install Tesseract
